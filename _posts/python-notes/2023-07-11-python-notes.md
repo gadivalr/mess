@@ -1,8 +1,10 @@
 ---
-title: Python Notes from Intro to Machine Learning
+title: Python Notes 
 date: 2023-07-11 10:00:00 +07:00
 tags: [python, machine-learning]
-description: Notes and code snippets of Python that I've been collecting so far throughout the "Intro to Machine Learning" course.
+description: Notes and code snippets of Python that I've been collecting so far 
+throughout the "Intro to Machine Learning" course.
+layout: post
 ---
 # Python Notes from Intro to Machine Learning
 

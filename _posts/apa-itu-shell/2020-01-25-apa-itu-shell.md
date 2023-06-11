@@ -29,7 +29,7 @@ Kernel memfasilitasi interaksi antara komponen perangkat keras dan perangkat lun
 Ketika kita menginputkan suatu perintah pada terminal emulator, kernel tidak langsung mengerti perintah yang kita ketik, kita membutuhkan suatu interface sebagai perantara menuju kernel yaitu **Shell**.
 
 <figure>
-<img src="/shell.png" alt="shell">
+<img src="shell.png" alt="shell">
 <figcaption>Fig 3. bagan komunikasi shell.</figcaption>
 </figure>
 

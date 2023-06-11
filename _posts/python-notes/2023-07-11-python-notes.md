@@ -1,10 +1,9 @@
 ---
-title: Python Notes 
-date: 2023-07-11 10:00:00 +07:00
-tags: [python, machine-learning]
-description: Notes and code snippets of Python that I've been collecting so far 
-throughout the "Intro to Machine Learning" course.
 layout: post
+title:  "Welcome to gadiel's blog!"
+date:   2020-08-29 09:29:20 +0700
+categories: jekyll update
+usemathjax: true
 ---
 # Python Notes from Intro to Machine Learning
 

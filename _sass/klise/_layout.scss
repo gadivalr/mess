@@ -213,8 +213,31 @@
     max-width: 393px;
     line-height: 1.688;
   }
+  .social-links {
+    margin: 30px;
+    text-decoration: none;
+    position: relative;
+    display: inline-block;
+    height: 35px;
+    width: 35px;
+    color: #fff;
+  }
+  svg:not(:host).svg-inline--fa, svg:not(:root).svg-inline--fa {
+    overflow: visible;
+    box-sizing: content-box;
 }
-
+.svg-inline--fa {
+  display: var(--fa-display,inline-block);
+  height: 1em;
+  overflow: visible;
+  vertical-align: -.125em;
+  margin: 7px;
+}
+svg:not(:root) {
+  overflow-clip-margin: content-box;
+  overflow: hidden;
+}
+}
 // Content
 .posts-item-note {
   font-size: $base-font-size;
@@ -223,7 +246,7 @@
   color: $black;
 }
 
-// List of posts
+// List of postsm
 .post-item {
   display: flex;
   padding-top: 5px;

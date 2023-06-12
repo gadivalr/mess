@@ -29,13 +29,16 @@
   padding-bottom: 56.25%;
   margin-top: 20px;
 
-  
- iframe, object, embed {
+  iframe,
+  object,
+  embed {
     top: 0;
     left: 0;
     width: 80%;
     height: 100%;
     position: absolute;
+  }
 }
+
 
 

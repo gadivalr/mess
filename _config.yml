@@ -22,7 +22,7 @@ author:
   avatar: /assets/img/ms.jpeg # change with your own avatar
 
 # URL settings
-url: "https://github.com/gadivalr/gadivalr.github.io" #
+url: "https://mess-gamma.vercel.app" #
 baseurl:
 permalink: /:title/
 google_analytics: # leave it blank if not wish

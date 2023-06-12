@@ -58,7 +58,7 @@ jekyll_compose:
     modified:
     tags: []
     description:
-
+read-time: true
 # Homepage limit posts
 number_of_posts: 5
 

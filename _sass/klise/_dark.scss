@@ -153,6 +153,10 @@ body[data-theme="dark"] {
     }
   }
 
+  .author svg.svg-inline--fa:not(:host), .author svg.svg-inline--fa:not(:root) {
+    color: white;
+  
+  }
   // Post Item
   .post-item {
     &:not(:first-child) {

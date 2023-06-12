@@ -13,7 +13,7 @@ mode: dark # default theme "dark" | "light"
 author:
   name: Gadi S. # author name
   bio: >- # tell to the world
-    A Person who develops software with coffee </a>.
+    A Person who develops software with coffee </a>
   username: gadivalr # general username
   github: gadivalr # github username
   twitter: gadivalr # twitter username

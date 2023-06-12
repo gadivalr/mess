@@ -28,13 +28,13 @@ body[data-theme="dark"] {
 
   // Post
   .page-content {
-    a {
-      color: none;
+      a {
+      color: rgb(240, 200, 126);
 
       &:hover,
       &:active,
       &:focus {
-        color: $dark-text-link-blue ;
+        color: rgb(250, 193, 88) ;
       }
     }
 

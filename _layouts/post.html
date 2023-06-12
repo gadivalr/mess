@@ -75,7 +75,7 @@ layout: compress
       </article>
     
       {% if page.comments %}
-        {% include comments.html %}
+        {% include disqus.html %}
       {% endif %}
 
     </main>
@@ -86,7 +86,7 @@ layout: compress
     {% if page.next or page.previous %}
       {% include navigation.html %}
     {% endif %}
-     {%include disqus.html %}
+    
     {% include footer.html %}
   </div>
 </body>

@@ -181,9 +181,10 @@
 
 // Author
 .author {
-  margin-top: 6.3rem;
-  margin-bottom: 7.2rem;
+  margin-top: 8.3rem;
+  margin-bottom: 0px;
   text-align: center;
+  min-height: 100dvh;
 
   @include media-query($on-mobile) {
     margin-bottom: 3em;
@@ -248,7 +249,7 @@ svg:not(:root) {
   font-size: $base-font-size;
   font-weight: 700;
   margin-bottom: 5px;
-  margin-top: 170px;
+  margin-top: 10px;
   color: $black;
 }
 

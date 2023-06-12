@@ -27,7 +27,8 @@ baseurl:
 permalink: /:title/
 google_analytics: # leave it blank if not wish
 fb_appid:
-
+disqus:
+  shortname: github 
 # Collection setting
 collections:
   posts:

@@ -13,6 +13,14 @@
     } else {
       initTheme(state);
     }
+
+    // Actualizar Disqus después de cambiar el tema
+    if (typeof DISQUS !== "undefined") {
+      DISQUS.reset({
+        reload: true,
+        config: disqus_config
+      });
+    }
   };
 
   lamp.addEventListener("click", () =>
@@ -29,17 +37,17 @@
       : area.classList.remove("blurry");
   });
 })();
+
 // Obtén la casilla de verificación del menú
-  var menuTrigger = document.getElementById('menu-trigger');
+var menuTrigger = document.getElementById('menu-trigger');
 
-  // Obtén todos los enlaces del menú
-  var menuLinks = document.querySelectorAll('.menu-link');
+// Obtén todos los enlaces del menú
+var menuLinks = document.querySelectorAll('.menu-link');
 
-  // Agrega un controlador de eventos a cada enlace del menú
-  menuLinks.forEach(function(link) {
-    link.addEventListener('click', function() {
-      // Desmarca la casilla de verificación del menú
-      menuTrigger.checked = false;
-    });
+// Agrega un controlador de eventos a cada enlace del menú
+menuLinks.forEach(function(link) {
+  link.addEventListener('click', function() {
+    // Desmarca la casilla de verificación del menú
+    menuTrigger.checked = false;
   });
-
+});

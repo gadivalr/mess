@@ -269,7 +269,7 @@ svg:not(:root) {
   @extend %clearfix;
 
   &:not(:first-child) {
-    border-top: 1px solid $light;
+    border-top: 1px solid #fffff0;
   }
 
   .post-item-date {

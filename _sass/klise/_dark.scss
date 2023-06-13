@@ -140,7 +140,7 @@ body[data-theme="dark"] {
         color: $dark-white;
       }
       @include media-query($on-mobile) {
-        background-color: $dark-black;
+        background-color: #1B1D25;
         border-color: $dark-light;
 
         .menu-icon {

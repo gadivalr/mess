@@ -5,9 +5,6 @@ tags: [blog]
 description: intentaré documentar todo el proceso 
 ---
 
-
-Intentaré documentar todo el proceso de "salvar el semestre" en unos pocos días.
-
 ## Día 1
 
 ### Contexto

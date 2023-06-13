@@ -4,9 +4,6 @@ date: 2023-06-12 10:00:00 +07:00
 tags: [blog]
 description: intentaré documentar todo el proceso 
 ---
-
-## Día 1
-
 ### Contexto
 El día viernes tenía exactamente una semana para "salvar el semestre" pero cuando ya estaba dispuesto a estudiar paso algo que cambió mis planes, descubrí  [Jekyll](https://jekyllrb.com/) un **Static Site Generator**
  y en lugar de ponerme a estudiar (lo que tenía que hacer), decidí diseñar un blog usando jekyll ya que al ser un generador de sitios estáticos seria rápido. La conversación fue así:
@@ -17,7 +14,7 @@ Yo: "¡Vale, No tomará mucho tiempo!"
 
 Me dejo seducir fácilmente por el lado oscuro. Es mi mala costumbre. En lugar de pensar en estudiar, procrastiné construyendo este blog desde el principio que me tomó todo el fin de semana. 
 
-### Estado actual
+### Estado actual (Día 1)
 
 Son las 21:33 hrs. Haré dos bloques de estudio de 50 min de estudio, 15 de break y mucho café.
 <br>

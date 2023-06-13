@@ -34,7 +34,7 @@
     
 
     &.center {
-      text-align: center;
+      
     }
 
     @include media-query($on-mobile) {
@@ -54,7 +54,7 @@
   time {
     position: relative;
     
-    text-align: center;
+   
     font-size: 14px;
 
   //   &::after {

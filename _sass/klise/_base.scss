@@ -58,7 +58,11 @@ body {
   font-kerning: normal;
   box-sizing: border-box;
 }
-
+code {
+  &.highlighter-rouge {
+    background-color: #eed;
+  }
+}
 // Set `margin-bottom` to maintain vertical rhythm
 h1,
 h2,

@@ -11,7 +11,7 @@ Intentaré documentar todo el proceso de "salvar el semestre" en unos pocos día
 
 ### Contexto
 El día viernes tenía exactamente una semana para "salvar el semestre", cuando ya estaba dispuesto a estudiar paso algo que cambió todo mis planes, descubrí  [Jekyll](https://jekyllrb.com/) un **Static Site Generator**
- y en lugar de ponerme a estudiar (lo que tenía que hacer) , decidí diseñar un blog, usando jekyll ya que al ser un generador de sitios estáticos seria rápido. La conversación fue así:
+ y en lugar de ponerme a estudiar (lo que tenía que hacer), decidí diseñar un blog usando jekyll ya que al ser un generador de sitios estáticos seria rápido. La conversación fue así:
 
 Mi Yoda interior: "Estudiar para salvar  el semestre, debes" <br>
 El lado oscuro de la Fuerza: "La combinación de Jekyll y Scss me parece inquietante" <br>
@@ -21,9 +21,9 @@ Me dejo seducir fácilmente por el lado oscuro. Es mi mala costumbre. En lugar d
 
 ### Estado actual
 
-Son las 21:33 hrs, haré dos bloques de estudio de 50 min de estudio y 15 de break, y mucho café.
+Son las 21:33 hrs, haré dos bloques de estudio de 50 min de estudio, 15 de break y mucho café.
 <br>
-Tengo que estudiarme la clase 9 hasta la clase 12 y resolver los certamenes de años anteriores, asi que el plan para esta noche será:
+Tengo que estudiarme la clase 9 hasta la clase 12 y resolver los certámenes de años anteriores. El plan para esta noche será:
 <br>
  * Hacer un resumen de la clase 11 y 12 ( ya tengo hecho el de la clase 9 y 10, por suerte lol)
  * Resolver certamen año 2022

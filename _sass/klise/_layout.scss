@@ -217,6 +217,11 @@
     font-size: 1.3rem;
     color: #434648;
   }
+  [data-theme="dark"] {
+    .author-bio {
+       color: #eaeaea;
+    }
+  }
   .social-links {
     margin-top: 1.5rem;
     margin: 30px;

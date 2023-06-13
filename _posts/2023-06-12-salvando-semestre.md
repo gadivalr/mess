@@ -28,7 +28,7 @@ Tengo que estudiarme la clase 9 hasta la clase 12 y resolver los certámenes de 
  * Hacer un resumen de la clase 11 y 12 ( ya tengo hecho el de la clase 9 y 10, por suerte lol)
  * Resolver certamen año 2022
 <br>
-Espero que esto no me tomé más de 3hrs para poder dormir, porque el día de mañana tengo una clase importante a las 9:45 y no sería nada  bueno si me la pierdo.
+Espero que esto no me tomé más de 3hrs para poder dormir. El día de mañana tengo una clase importante a las 9:45 y no sería nada  bueno si me la pierdo.
 <br>
 <br>
 Mañana actualizaré cómo estuvo la noche.

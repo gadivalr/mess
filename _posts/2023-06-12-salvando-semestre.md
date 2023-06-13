@@ -10,7 +10,7 @@ description: intentaré documentar todo el proceso
 Intentaré documentar todo el proceso de "salvar el semestre" en unos pocos días.
 
 ### Contexto
-El día viernes tenía exactamente una semana para "salvar el semestre", cuando ya estaba dispuesto a estudiar paso algo que cambió todo mis planes, descubrí  [Jekyll](https://jekyllrb.com/) un **Static Site Generator**
+El día viernes tenía exactamente una semana para "salvar el semestre" pero cuando ya estaba dispuesto a estudiar paso algo que cambió mis planes, descubrí  [Jekyll](https://jekyllrb.com/) un **Static Site Generator**
  y en lugar de ponerme a estudiar (lo que tenía que hacer), decidí diseñar un blog usando jekyll ya que al ser un generador de sitios estáticos seria rápido. La conversación fue así:
 
 Mi Yoda interior: "Estudiar para salvar  el semestre, debes" <br>

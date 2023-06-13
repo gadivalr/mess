@@ -5,9 +5,10 @@ tags: [blog]
 description: intentaré documentar todo el proceso 
 ---
 
-## Día 1
 
 Intentaré documentar todo el proceso de "salvar el semestre" en unos pocos días.
+
+## Día 1
 
 ### Contexto
 El día viernes tenía exactamente una semana para "salvar el semestre" pero cuando ya estaba dispuesto a estudiar paso algo que cambió mis planes, descubrí  [Jekyll](https://jekyllrb.com/) un **Static Site Generator**

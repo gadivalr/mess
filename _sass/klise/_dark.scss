@@ -1,6 +1,6 @@
 body[data-theme="dark"] {
   color: $dark-text-base-color;
-  background-color: $dark-black;
+  background-color: #1b1d25;
 
   // Heading
   h1,
@@ -140,7 +140,7 @@ body[data-theme="dark"] {
         color: $dark-white;
       }
       @include media-query($on-mobile) {
-        background-color: $dark-light;
+        background-color: #131418;
         border-color: $dark-light;
 
         .menu-icon {

@@ -62,7 +62,7 @@ pre code.highlighter-rouge {
   
   .highlight,
   .highlight .w {
-    color: #303030;
+    color: #666666;
     // background-color: #1a1b21;
   }
   
@@ -71,13 +71,15 @@ pre code.highlighter-rouge {
     // background-color: #1a1b21;
     font-weight: bold;
   }
-  
+  .highlight:not(pre):not(code):contains("np") {
+    color: #ff79c6;
+  }
   .highlight .c,
   .highlight .cd,
   .highlight .cm,
   .highlight .c1,
   .highlight .cs {
-    color: #424242;
+    color: #808080;
     font-style: italic;
   }
   
@@ -123,7 +125,7 @@ pre code.highlighter-rouge {
   
   .highlight .k{
     color: #f04e1d; //as
-    font-weight: 700;
+    
   }
 
   //.highlight .kp,
@@ -171,16 +173,16 @@ pre code.highlighter-rouge {
   }
   .highlight .kn{
     color: #e7490b; //import
-    font-weight: 700; //import
+     //import
   }
   .highlight .nn {
     color: #e7820d; //package
-    font-weight: 520;
+    
   }
   
   .highlight .nc {
     color: #e7820d; 
-    font-weight: 700;
+    
   }
   
   .highlight .no {
@@ -212,7 +214,7 @@ pre code.highlighter-rouge {
    /* Agregada regla para "np" */
   .highlight .nb{
     color:  #3c84c0; //suma
-    font-weight: 700;
+    
   }
   
   .highlight .ne{
@@ -225,8 +227,13 @@ pre code.highlighter-rouge {
   // .highlight .nt{
   //   color: black;
   // }
-  .highlight .nx {
-    color: #ff79c6; /* Nuevo color para "np" */
+  // .highlight .p + .n  {
+  //   color: #ff79c6; /* Nuevo color para "np" */
+  // }
+  
+
+  .highlight .k:last-child .n {
+    color: #5f0739; /* Nuevo color para la clase "n" */
   }
   
   //morado = #8b008b; k
@@ -250,7 +257,7 @@ pre code.highlighter-rouge {
 
 .highlight,
 .highlight .w {
-  color: #303030;
+  color: #707070;
   // background-color: #1a1b21;
 }
 
@@ -311,14 +318,14 @@ pre code.highlighter-rouge {
 
 .highlight .k{
   color: #8b008b;
-  font-weight: 700;
+  
 }
 .highlight .kn{
   color: #8b008b;
-  font-weight: 700; //import
+   //import
 }
-//.highlight .kp,
-//.highlight .kr,
+.highlight .kp,
+.highlight .kr,
 .highlight .kv {
   color: #e48d2a;
 }
@@ -368,7 +375,7 @@ pre code.highlighter-rouge {
 
 .highlight .nc {
   color: #e7820d; 
-  font-weight: 700;//package
+  //package
 }
 
 .highlight .no {
@@ -400,7 +407,7 @@ pre code.highlighter-rouge {
  /* Agregada regla para "np" */
 .highlight .nb{
   color:  #3c84c0; //suma
-  font-weight: 700;
+  
 }
 
 .highlight .ne{
